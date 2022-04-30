@@ -1,0 +1,24 @@
+
+.banner {
+  
+  background: url(../../images/photo.jpg);   
+background-position: bottom;   	background-attachment: fixed;
+background size: cover;
+}
+
+
+.banner h1 {
+  
+  font-size: 60px;
+}
+.banner h2 {
+  
+  font-size: 70px;
+  font-weight: lighter;
+	
+}
+
+
+
+
+

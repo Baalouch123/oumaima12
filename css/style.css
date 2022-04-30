@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Updock&display=swap");
+
+@import url("components/container.css");
+@import url("components/Avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css"); 
+
+
+
+body {
+        font-family: 'Updock', cursive;
+        flex-wrap: inherit;
+        font-size: 20px ;
+
+
+      }
+
+
+      h1,h2,h3{
+      	font-family: 'swap',sans-serif;
+      	font-weight: bold;
+          text-decoration-line: underline;
+
+
+
+      }
+      p{
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 100px;
+  margin-left: 50px;
+  background: lightgrey;
+
+   
+  box-shadow: 5px 10px #888888; }
+
+      a{ text-decoration: none ;  }
+     
+
+      h1 {
+        lighting-color:red;
+        color: darkred;
+        margin-bottom: auto;     }
+ 
+
+    
+ .img-bordered{
+   border: 10px solid blanchedalmond;}
+
+  
+
+h4{
+        color: deeppink;
+
+}
+
+
+
+ .card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.card img {
+  width: 150px;
+}
+.card h3 {
+  flex-grow: 1;
+  padding-left: 20px;
+
+}
+
+
+  
